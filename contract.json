@@ -1,0 +1,8 @@
+{
+  "name": "ROBOTOKEN",
+  "description": "**ROBOTOKEN** \n\nContract description",
+  "image": "https://avatars.githubusercontent.com/u/96585762",
+  "external_link": "https://robotoken-space.github.io/",
+  "seller_fee_basis_points": 1000,
+  "fee_recipient": "0x62E9D9C0E546d58D4833A6a2906F80d7630E30B5"
+}
