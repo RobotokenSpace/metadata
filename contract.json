@@ -1,8 +1,8 @@
 {
   "name": "ROBOTOKEN",
-  "description": "**ROBOTOKEN** \n\nContract description",
+  "description": "In the beginning, was the NFT, and the NFT was **ROBOTOKEN**. The 1st collection of 5k ROBOTOKENs are digital assets belonging to the 1st Gen of **\"Musk's Children\"** who are the community of innovators, creators, and space dreamers.\n\nROBOTOKEN NFTs contain rare digital content with unique design elements and exclusive semantics. NFT-banknotes include signatures of 10 great people who have contributed to space exploration. Only 20 owners will be able to collect all ten signatures. Their ENS wallet names will be engraved on the Big Wall of Fame in the Virtual Space Museum to thank them for their help in the creation of the Space Museum and personal investment in the development of the community.\n\nROBOTOKENs symbolize the height of human achievements in space exploration. In the central place of each NFT, two random robots from the collection are depicted. Smart and friendly helpers are made by humans to cope with space routine and develop the metaverse.\n\nChange things with ROBOTOKENs!",
   "image": "https://avatars.githubusercontent.com/u/96585762",
-  "external_link": "https://robotoken-space.github.io/",
+  "external_link": "https://robotoken.space/",
   "seller_fee_basis_points": 1000,
-  "fee_recipient": "0x9652D7555Db92a23Fc348AE48B69E45BDa10fb38"
+  "fee_recipient": "0xCE01b1a320b2BD5ce016daD20476e76BD43fA145"
 }
