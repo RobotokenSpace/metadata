@@ -1,8 +1,8 @@
 ## ROBOTOKEN METADATA
 
 - [contract.json](./contract.json)
+- [notrevealed.json](./notrevealed.json)
 - [all.json](./all.json)
-- [0.json](./0.json)
 - [1.json](./1.json)
 - [2.json](./2.json)
 - [3.json](./3.json)
@@ -5002,3 +5002,4 @@
 - [4997.json](./4997.json)
 - [4998.json](./4998.json)
 - [4999.json](./4999.json)
+- [5000.json](./5000.json)
