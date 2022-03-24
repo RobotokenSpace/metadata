@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #1760",
-  "description": "**ROBOTOKEN #1760**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":1760,"name":"ROBOTOKEN #1760","description":"**ROBOTOKEN #1760**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmWBhmGHYQAissiUoiBRyXvU3KH2reAp6CKCQjmqwkKVpo","imageHash":"65640a44b6a9916f5ec2023f1b27a9537640d2c1fdd2634878634ac68d2537f4","imageIpfs":"QmWBhmGHYQAissiUoiBRyXvU3KH2reAp6CKCQjmqwkKVpo","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 2"},{"trait_type":"Border","value":"Border 10"},{"trait_type":"Signature","value":"Neil Armstrong"},{"trait_type":"Date","value":"18.07.2011"},{"trait_type":"Planet","value":"Kepler-22b"},{"trait_type":"Robot 2","value":"Trash"},{"trait_type":"Robot 1","value":"Samurai"},{"trait_type":"Rocket","value":"Rocket 5"}]}

@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #2066",
-  "description": "**ROBOTOKEN #2066**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":2066,"name":"ROBOTOKEN #2066","description":"**ROBOTOKEN #2066**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmezjyyP13M1HYFPh8Lqp8u9w2UTb1eYZyziiNctMoqoNq","imageHash":"8f397efd0212c56f82672b9fe3c094bcb2844f78f80c7891ad11d37b79009e8c","imageIpfs":"QmezjyyP13M1HYFPh8Lqp8u9w2UTb1eYZyziiNctMoqoNq","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 3"},{"trait_type":"Border","value":"Border 5"},{"trait_type":"Signature","value":"Herman Titov"},{"trait_type":"Date","value":"19.04.1071"},{"trait_type":"Planet","value":"Kepler-186f"},{"trait_type":"Robot 2","value":"Transparent"},{"trait_type":"Robot 1","value":"Future"},{"trait_type":"Rocket","value":"Rocket 5"}]}

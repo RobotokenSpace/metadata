@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #136",
-  "description": "**ROBOTOKEN #136**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":136,"name":"ROBOTOKEN #136","description":"**ROBOTOKEN #136**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://Qma5Wuw2tg3LcjCuNiwGXhR1yf2HbXHqzSn2Y81Y27Tjmx","imageHash":"fbda5511f37c48b0d9cc5a2ececccdf565ede3156eea605bc6d97f0e5c3099c6","imageIpfs":"Qma5Wuw2tg3LcjCuNiwGXhR1yf2HbXHqzSn2Y81Y27Tjmx","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 1"},{"trait_type":"Border","value":"Border 7"},{"trait_type":"Signature","value":"Eugene Cernan"},{"trait_type":"Date","value":"19.04.1071"},{"trait_type":"Planet","value":"Venus"},{"trait_type":"Robot 2","value":"Lunokhod"},{"trait_type":"Robot 1","value":"Trash"},{"trait_type":"Rocket","value":"Rocket 3"}]}

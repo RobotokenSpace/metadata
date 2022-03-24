@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #4947",
-  "description": "**ROBOTOKEN #4947**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":4947,"name":"ROBOTOKEN #4947","description":"**ROBOTOKEN #4947**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmSvTfQxfQv7axD6LArb9vw6Ftp44m1YuruJFJcYa5jZ8c","imageHash":"20380ccc25f31deb45e9bee0b7d6c571ce7b7bfe33a0f38062f920a81f9a60ba","imageIpfs":"QmSvTfQxfQv7axD6LArb9vw6Ftp44m1YuruJFJcYa5jZ8c","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 5"},{"trait_type":"Border","value":"Border 6"},{"trait_type":"Signature","value":"Eugene Cernan"},{"trait_type":"Date","value":"YEAR 1676"},{"trait_type":"Planet","value":"Haumea"},{"trait_type":"Robot 2","value":"MicroRobots"},{"trait_type":"Robot 1","value":"Electric"},{"trait_type":"Rocket","value":"Rocket 3"}]}

@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #2274",
-  "description": "**ROBOTOKEN #2274**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":2274,"name":"ROBOTOKEN #2274","description":"**ROBOTOKEN #2274**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmPWLGHHwKdz9iRdSPv7CHHmXgLCftKWQZa6FW4pW9gdNV","imageHash":"fc88c9a554ce45855ab451788b960e9e96e1ff2a7e83f504aa29465e651c05f9","imageIpfs":"QmPWLGHHwKdz9iRdSPv7CHHmXgLCftKWQZa6FW4pW9gdNV","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 3"},{"trait_type":"Border","value":"Border 2"},{"trait_type":"Signature","value":"Alexey Leonov"},{"trait_type":"Date","value":"25.05.1931"},{"trait_type":"Planet","value":"Haumea"},{"trait_type":"Robot 2","value":"Flying"},{"trait_type":"Robot 1","value":"Bug"},{"trait_type":"Rocket","value":"Rocket 1"}]}

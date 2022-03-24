@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #2186",
-  "description": "**ROBOTOKEN #2186**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":2186,"name":"ROBOTOKEN #2186","description":"**ROBOTOKEN #2186**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmTxVnPecxuV3Ra2UMLqb5JHDgqP6ab9rWah5fbLXCUo5z","imageHash":"b3e05a4945190a344cc1dada1970d6f5050dc6ac242fd70c824cade2e90da9c9","imageIpfs":"QmTxVnPecxuV3Ra2UMLqb5JHDgqP6ab9rWah5fbLXCUo5z","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 3"},{"trait_type":"Border","value":"Border 1"},{"trait_type":"Signature","value":"Alexey Leonov"},{"trait_type":"Date","value":"YEAR 1676"},{"trait_type":"Planet","value":"TOI-700d"},{"trait_type":"Robot 2","value":"Knight"},{"trait_type":"Robot 1","value":"Doctor"},{"trait_type":"Rocket","value":"Rocket 3"}]}

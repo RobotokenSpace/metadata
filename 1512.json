@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #1512",
-  "description": "**ROBOTOKEN #1512**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":1512,"name":"ROBOTOKEN #1512","description":"**ROBOTOKEN #1512**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmdfFf8SwKXWp7Xe5FbzsVTLRkbkfoef2WDuwrzLik2diX","imageHash":"a2330fa0359f60d6df70d403d60f4e8bd43a6cc6a862fe8e344ae7919ebbeb45","imageIpfs":"QmdfFf8SwKXWp7Xe5FbzsVTLRkbkfoef2WDuwrzLik2diX","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 2"},{"trait_type":"Border","value":"Border 5"},{"trait_type":"Signature","value":"Elon Reeve Musk"},{"trait_type":"Date","value":"18.07.2011"},{"trait_type":"Planet","value":"Mercury"},{"trait_type":"Robot 2","value":"Predator"},{"trait_type":"Robot 1","value":"Cargo"},{"trait_type":"Rocket","value":"Rocket 4"}]}

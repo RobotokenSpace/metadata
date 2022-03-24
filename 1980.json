@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #1980",
-  "description": "**ROBOTOKEN #1980**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":1980,"name":"ROBOTOKEN #1980","description":"**ROBOTOKEN #1980**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmNrvRigq22dfgWCNek5AHHnoY39eGg9GYWWopQRobZk9u","imageHash":"4ddab1e556f4acb85a2a9a1e00f2c7b901d40df05c4c24ab7778e35a164ab046","imageIpfs":"QmNrvRigq22dfgWCNek5AHHnoY39eGg9GYWWopQRobZk9u","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 2"},{"trait_type":"Border","value":"Border 4"},{"trait_type":"Signature","value":"Eugene Cernan"},{"trait_type":"Date","value":"YEAR 1676"},{"trait_type":"Planet","value":"Uranium"},{"trait_type":"Robot 2","value":"Bug"},{"trait_type":"Robot 1","value":"PostApocalypse"},{"trait_type":"Rocket","value":"Rocket 4"}]}

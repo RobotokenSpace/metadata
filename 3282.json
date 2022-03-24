@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #3282",
-  "description": "**ROBOTOKEN #3282**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":3282,"name":"ROBOTOKEN #3282","description":"**ROBOTOKEN #3282**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://Qmd8Xdz9xdKX9d6i7Ne2u34HWQ2pGMwg16SL9yi3tK96MP","imageHash":"cbc8fccc1c3120b05e4c28c6b8c7ebb3ba1cbf0247f9a529ee43c14505ec3708","imageIpfs":"Qmd8Xdz9xdKX9d6i7Ne2u34HWQ2pGMwg16SL9yi3tK96MP","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 4"},{"trait_type":"Border","value":"Border 4"},{"trait_type":"Signature","value":"Alexey Leonov"},{"trait_type":"Date","value":"YEAR 1676"},{"trait_type":"Planet","value":"Jupiter"},{"trait_type":"Robot 2","value":"Samurai"},{"trait_type":"Robot 1","value":"Samurai"},{"trait_type":"Rocket","value":"Rocket 4"}]}

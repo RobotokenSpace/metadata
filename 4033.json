@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #4033",
-  "description": "**ROBOTOKEN #4033**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":4033,"name":"ROBOTOKEN #4033","description":"**ROBOTOKEN #4033**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmUKEm7LQGRMmDn1kDRsqCJ139CaALRUpFERUQxLaSckFW","imageHash":"989afbd08fbe120f3a7a192fd9872581aeefdb9432e0700a6b8616a9c9525dec","imageIpfs":"QmUKEm7LQGRMmDn1kDRsqCJ139CaALRUpFERUQxLaSckFW","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 5"},{"trait_type":"Border","value":"Border 6"},{"trait_type":"Signature","value":"Alexey Leonov"},{"trait_type":"Date","value":"YEAR 1676"},{"trait_type":"Planet","value":"Mars"},{"trait_type":"Robot 2","value":"Underwater"},{"trait_type":"Robot 1","value":"Electric"},{"trait_type":"Rocket","value":"Rocket 1"}]}

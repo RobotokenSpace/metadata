@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #4714",
-  "description": "**ROBOTOKEN #4714**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":4714,"name":"ROBOTOKEN #4714","description":"**ROBOTOKEN #4714**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmX4Zn4y3Wu4kh7AGQb7k3r4w6yknJD7CgfU64bT58oYUo","imageHash":"dd433de825fbd48822b6f9259818d15bdecec3e60963a919f4b8f29f36053c05","imageIpfs":"QmX4Zn4y3Wu4kh7AGQb7k3r4w6yknJD7CgfU64bT58oYUo","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 5"},{"trait_type":"Border","value":"Border 10"},{"trait_type":"Signature","value":"Belka And Strelka"},{"trait_type":"Date","value":"18.07.2011"},{"trait_type":"Planet","value":"HD-85512b"},{"trait_type":"Robot 2","value":"Transparent"},{"trait_type":"Robot 1","value":"Elon"},{"trait_type":"Rocket","value":"Rocket 2"}]}

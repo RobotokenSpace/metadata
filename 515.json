@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #515",
-  "description": "**ROBOTOKEN #515**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":515,"name":"ROBOTOKEN #515","description":"**ROBOTOKEN #515**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmTxyi9PSmTvxwQ5KVVvDSeinVsxZk5Rzpso1nArfoKonX","imageHash":"0a51e6d49f34247e667c81b1898606c9dd7601f822ef7e6a5d1fa2ecfab65122","imageIpfs":"QmTxyi9PSmTvxwQ5KVVvDSeinVsxZk5Rzpso1nArfoKonX","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 1"},{"trait_type":"Border","value":"Border 8"},{"trait_type":"Signature","value":"Eugene Cernan"},{"trait_type":"Date","value":"12.04.1961"},{"trait_type":"Planet","value":"Kepler-61b"},{"trait_type":"Robot 2","value":"Electric"},{"trait_type":"Robot 1","value":"Retro"},{"trait_type":"Rocket","value":"Rocket 4"}]}

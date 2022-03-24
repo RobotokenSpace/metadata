@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #4231",
-  "description": "**ROBOTOKEN #4231**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":4231,"name":"ROBOTOKEN #4231","description":"**ROBOTOKEN #4231**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://Qmc8QDWFr5qQyDzdNwiCaW9NPbXrbbns8UEgkXWX9VsSsy","imageHash":"310a06b2e7df85ee678658066f68edba3cfc53b5fb89089e01a041996eda075d","imageIpfs":"Qmc8QDWFr5qQyDzdNwiCaW9NPbXrbbns8UEgkXWX9VsSsy","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 5"},{"trait_type":"Border","value":"Border 7"},{"trait_type":"Signature","value":"Belka And Strelka"},{"trait_type":"Date","value":"YEAR 1676"},{"trait_type":"Planet","value":"TOI-700d"},{"trait_type":"Robot 2","value":"Samurai"},{"trait_type":"Robot 1","value":"Knight"},{"trait_type":"Rocket","value":"Rocket 5"}]}

@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #1172",
-  "description": "**ROBOTOKEN #1172**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":1172,"name":"ROBOTOKEN #1172","description":"**ROBOTOKEN #1172**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmRYSuk4pdHheSGse8qw2GyS1LS7WNDL9shJHuUhHZEXbM","imageHash":"b13d41d13cd2a967a171c29bc67f27f04b2d8eeab632e58f29c901e31a25e5bc","imageIpfs":"QmRYSuk4pdHheSGse8qw2GyS1LS7WNDL9shJHuUhHZEXbM","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 2"},{"trait_type":"Border","value":"Border 3"},{"trait_type":"Signature","value":"Alexey Leonov"},{"trait_type":"Date","value":"YEAR 1676"},{"trait_type":"Planet","value":"Gliese-581g"},{"trait_type":"Robot 2","value":"Underwater"},{"trait_type":"Robot 1","value":"Eco"},{"trait_type":"Rocket","value":"Rocket 1"}]}

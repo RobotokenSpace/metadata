@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #755",
-  "description": "**ROBOTOKEN #755**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":755,"name":"ROBOTOKEN #755","description":"**ROBOTOKEN #755**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmRY3EN1kQjJptg33uo9FpNN1WQSfHVVLHzmdMVt9DPP4z","imageHash":"5d310cf0dcf586e536cbc5f5c2f4247187869a9fdc8ed78768de210f8a05d5e1","imageIpfs":"QmRY3EN1kQjJptg33uo9FpNN1WQSfHVVLHzmdMVt9DPP4z","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 1"},{"trait_type":"Border","value":"Border 6"},{"trait_type":"Signature","value":"Elon Reeve Musk"},{"trait_type":"Date","value":"YEAR 1676"},{"trait_type":"Planet","value":"Haumea"},{"trait_type":"Robot 2","value":"Flying"},{"trait_type":"Robot 1","value":"Eco"},{"trait_type":"Rocket","value":"Rocket 3"}]}

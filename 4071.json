@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #4071",
-  "description": "**ROBOTOKEN #4071**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":4071,"name":"ROBOTOKEN #4071","description":"**ROBOTOKEN #4071**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmchuDVAUf9GBtTh9qyiwSVrzhTuFEUFbeKw3LqENd6wws","imageHash":"a0b790547d93589d956a995d13107165ecb03ad151cb533ffac40ad77823eb8d","imageIpfs":"QmchuDVAUf9GBtTh9qyiwSVrzhTuFEUFbeKw3LqENd6wws","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 5"},{"trait_type":"Border","value":"Border 4"},{"trait_type":"Signature","value":"Belka And Strelka"},{"trait_type":"Date","value":"13.03.1986"},{"trait_type":"Planet","value":"Mars"},{"trait_type":"Robot 2","value":"MicroRobots"},{"trait_type":"Robot 1","value":"Doctor"},{"trait_type":"Rocket","value":"Rocket 2"}]}

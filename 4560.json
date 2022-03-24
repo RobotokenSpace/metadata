@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #4560",
-  "description": "**ROBOTOKEN #4560**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":4560,"name":"ROBOTOKEN #4560","description":"**ROBOTOKEN #4560**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://Qmf2LnKurfWpZaTUCXTDZ4YVKwtrChhsW2QGf9m6QZg58b","imageHash":"193d4a9436776b28e07dbc6f0a36f55ff17c0aa7040d5bc9c1ebd4ff646f8e8d","imageIpfs":"Qmf2LnKurfWpZaTUCXTDZ4YVKwtrChhsW2QGf9m6QZg58b","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 5"},{"trait_type":"Border","value":"Border 5"},{"trait_type":"Signature","value":"Neil Armstrong"},{"trait_type":"Date","value":"12.04.1961"},{"trait_type":"Planet","value":"Gliese-581g"},{"trait_type":"Robot 2","value":"PostApocalypse"},{"trait_type":"Robot 1","value":"Bug"},{"trait_type":"Rocket","value":"Rocket 1"}]}

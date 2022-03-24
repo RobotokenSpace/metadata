@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #2004",
-  "description": "**ROBOTOKEN #2004**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":2004,"name":"ROBOTOKEN #2004","description":"**ROBOTOKEN #2004**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://Qmeqv4Q817nhzxpXUMGDNLc5QF7BkrJzn6UxCTgx1B3Nvm","imageHash":"d456f146948977c4953a73cdcfa893017a99f22bd1e1369bd23762c9a60a5a51","imageIpfs":"Qmeqv4Q817nhzxpXUMGDNLc5QF7BkrJzn6UxCTgx1B3Nvm","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 3"},{"trait_type":"Border","value":"Border 8"},{"trait_type":"Signature","value":"Herman Titov"},{"trait_type":"Date","value":"19.04.1071"},{"trait_type":"Planet","value":"TOI-700d"},{"trait_type":"Robot 2","value":"Transparent"},{"trait_type":"Robot 1","value":"PostApocalypse"},{"trait_type":"Rocket","value":"Rocket 5"}]}

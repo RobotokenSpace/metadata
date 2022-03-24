@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #1640",
-  "description": "**ROBOTOKEN #1640**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":1640,"name":"ROBOTOKEN #1640","description":"**ROBOTOKEN #1640**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmdP2SBzcGPoNwmvwEXg2QL649NUtx3nuzrQenrfAyboPU","imageHash":"e643af745bf9513e4361972cecfcce2a4820b533593112a71f9365f6e4133c70","imageIpfs":"QmdP2SBzcGPoNwmvwEXg2QL649NUtx3nuzrQenrfAyboPU","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 2"},{"trait_type":"Border","value":"Border 6"},{"trait_type":"Signature","value":"Eugene Cernan"},{"trait_type":"Date","value":"18.07.2011"},{"trait_type":"Planet","value":"Jupiter"},{"trait_type":"Robot 2","value":"Sex"},{"trait_type":"Robot 1","value":"Electric"},{"trait_type":"Rocket","value":"Rocket 4"}]}

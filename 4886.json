@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #4886",
-  "description": "**ROBOTOKEN #4886**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":4886,"name":"ROBOTOKEN #4886","description":"**ROBOTOKEN #4886**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmSgaLcgTnbx4Hi2dMBQYmxhUVwXakjj8A8yiPdmaAJuTL","imageHash":"797707bf6e04ade3855c77f3e6de2551a2b8f1c94a5a9bf2fccea5f955f8c12b","imageIpfs":"QmSgaLcgTnbx4Hi2dMBQYmxhUVwXakjj8A8yiPdmaAJuTL","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 5"},{"trait_type":"Border","value":"Border 3"},{"trait_type":"Signature","value":"Elon Reeve Musk"},{"trait_type":"Date","value":"YEAR 1676"},{"trait_type":"Planet","value":"Pluto"},{"trait_type":"Robot 2","value":"Spider"},{"trait_type":"Robot 1","value":"Sex"},{"trait_type":"Rocket","value":"Rocket 1"}]}

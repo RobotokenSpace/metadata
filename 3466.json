@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #3466",
-  "description": "**ROBOTOKEN #3466**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":3466,"name":"ROBOTOKEN #3466","description":"**ROBOTOKEN #3466**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmSKMBL3HNWpBfY4xQfa2iaDfdyz5k5BQuAq82bAs8StiV","imageHash":"d312b9a6c1b2b813e13dddcc416ce58b383a05ca8652526c43c15f0501166b61","imageIpfs":"QmSKMBL3HNWpBfY4xQfa2iaDfdyz5k5BQuAq82bAs8StiV","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 4"},{"trait_type":"Border","value":"Border 10"},{"trait_type":"Signature","value":"Yuri Gagarin"},{"trait_type":"Date","value":"YEAR 1676"},{"trait_type":"Planet","value":"Mercury"},{"trait_type":"Robot 2","value":"Future"},{"trait_type":"Robot 1","value":"Trash"},{"trait_type":"Rocket","value":"Rocket 5"}]}

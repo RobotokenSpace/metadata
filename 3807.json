@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #3807",
-  "description": "**ROBOTOKEN #3807**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":3807,"name":"ROBOTOKEN #3807","description":"**ROBOTOKEN #3807**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmdWjSprKeurbudo6MJoWFABny5YGR5kBUWJAo7qZiAjd9","imageHash":"75f60f384e9728c471dd1657c7c8f470b3497514514158884f1e4939968a6ded","imageIpfs":"QmdWjSprKeurbudo6MJoWFABny5YGR5kBUWJAo7qZiAjd9","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 4"},{"trait_type":"Border","value":"Border 1"},{"trait_type":"Signature","value":"Belka And Strelka"},{"trait_type":"Date","value":"27.12.1571"},{"trait_type":"Planet","value":"Kepler-61b"},{"trait_type":"Robot 2","value":"Underwater"},{"trait_type":"Robot 1","value":"PostApocalypse"},{"trait_type":"Rocket","value":"Rocket 4"}]}

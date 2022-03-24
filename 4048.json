@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #4048",
-  "description": "**ROBOTOKEN #4048**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":4048,"name":"ROBOTOKEN #4048","description":"**ROBOTOKEN #4048**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmUWUVsLNsPsVbXTvL2ghzbdXaEKVLQmU9Ny27W8FXUyfb","imageHash":"63744a6a033f0d58e514fb50ca6be04144afb58d9911b350f576276e56c0b162","imageIpfs":"QmUWUVsLNsPsVbXTvL2ghzbdXaEKVLQmU9Ny27W8FXUyfb","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 5"},{"trait_type":"Border","value":"Border 1"},{"trait_type":"Signature","value":"Herman Titov"},{"trait_type":"Date","value":"YEAR 1676"},{"trait_type":"Planet","value":"TOI-700d"},{"trait_type":"Robot 2","value":"Retro"},{"trait_type":"Robot 1","value":"Electric"},{"trait_type":"Rocket","value":"Rocket 3"}]}

@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #3786",
-  "description": "**ROBOTOKEN #3786**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":3786,"name":"ROBOTOKEN #3786","description":"**ROBOTOKEN #3786**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmS8mAgWvPTPFX9TDvLomtCqJPNBQV6VQcR62fYCkUwx9J","imageHash":"cdec7a6b93478f61266a297ff6f2eac951df120ba37380aa17293ce08fac4df5","imageIpfs":"QmS8mAgWvPTPFX9TDvLomtCqJPNBQV6VQcR62fYCkUwx9J","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 4"},{"trait_type":"Border","value":"Border 2"},{"trait_type":"Signature","value":"John Herschel Glenn"},{"trait_type":"Date","value":"09-13.04.1986"},{"trait_type":"Planet","value":"Pluto"},{"trait_type":"Robot 2","value":"Sex"},{"trait_type":"Robot 1","value":"Combat"},{"trait_type":"Rocket","value":"Rocket 1"}]}

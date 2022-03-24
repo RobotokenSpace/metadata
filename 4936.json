@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #4936",
-  "description": "**ROBOTOKEN #4936**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":4936,"name":"ROBOTOKEN #4936","description":"**ROBOTOKEN #4936**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmZzJ78Win9qtW2BGPGZdmhonZzE91ZPSwr9qN5x7G8NrZ","imageHash":"cca4c4568fc57369751c0f2b74caaeac98fda5aa9f67afb2b035fb7bf5149042","imageIpfs":"QmZzJ78Win9qtW2BGPGZdmhonZzE91ZPSwr9qN5x7G8NrZ","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 5"},{"trait_type":"Border","value":"Border 8"},{"trait_type":"Signature","value":"Elon Reeve Musk"},{"trait_type":"Date","value":"12.04.1961"},{"trait_type":"Planet","value":"Kepler-22b"},{"trait_type":"Robot 2","value":"Electro"},{"trait_type":"Robot 1","value":"Flying"},{"trait_type":"Rocket","value":"Rocket 3"}]}

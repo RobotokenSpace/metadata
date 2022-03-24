@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #2967",
-  "description": "**ROBOTOKEN #2967**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":2967,"name":"ROBOTOKEN #2967","description":"**ROBOTOKEN #2967**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmYRXe3oLxnoXzxG6y4Wn2857cM7toQ68EcxoNv9qGrDig","imageHash":"5dca85f05c7c0bce31ab36cd1faad6e788540041ec1fd95739af17dbe9474ec1","imageIpfs":"QmYRXe3oLxnoXzxG6y4Wn2857cM7toQ68EcxoNv9qGrDig","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 3"},{"trait_type":"Border","value":"Border 8"},{"trait_type":"Signature","value":"Elon Reeve Musk"},{"trait_type":"Date","value":"18.07.2011"},{"trait_type":"Planet","value":"Saturn"},{"trait_type":"Robot 2","value":"Lunokhod"},{"trait_type":"Robot 1","value":"Predator"},{"trait_type":"Rocket","value":"Rocket 3"}]}

@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #504",
-  "description": "**ROBOTOKEN #504**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":504,"name":"ROBOTOKEN #504","description":"**ROBOTOKEN #504**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmTCcfmv1PUnNcMka1e45NdJnW1KPqxKXxvnaKgoATeF1t","imageHash":"08f0474e2a2d5c6bb7b529a0ea86b777ec9d01221f819c657928224553ecac49","imageIpfs":"QmTCcfmv1PUnNcMka1e45NdJnW1KPqxKXxvnaKgoATeF1t","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 1"},{"trait_type":"Border","value":"Border 2"},{"trait_type":"Signature","value":"Belka And Strelka"},{"trait_type":"Date","value":"13.03.1986"},{"trait_type":"Planet","value":"Gliese-163c"},{"trait_type":"Robot 2","value":"Lunokhod"},{"trait_type":"Robot 1","value":"PostApocalypse"},{"trait_type":"Rocket","value":"Rocket 4"}]}

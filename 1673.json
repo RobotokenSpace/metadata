@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #1673",
-  "description": "**ROBOTOKEN #1673**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":1673,"name":"ROBOTOKEN #1673","description":"**ROBOTOKEN #1673**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://Qmd52AbaSyP4A6nrSAyDz1hWqZUhRTV4mntPz2tBUjjbn9","imageHash":"415f90205b1395bb8b4ee275d1c054a1af26452ef4189339b5f67d032c7808b1","imageIpfs":"Qmd52AbaSyP4A6nrSAyDz1hWqZUhRTV4mntPz2tBUjjbn9","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 2"},{"trait_type":"Border","value":"Border 3"},{"trait_type":"Signature","value":"Yuri Gagarin"},{"trait_type":"Date","value":"12.04.1961"},{"trait_type":"Planet","value":"Kepler-62f"},{"trait_type":"Robot 2","value":"PostApocalypse"},{"trait_type":"Robot 1","value":"Intergalactic"},{"trait_type":"Rocket","value":"Rocket 5"}]}

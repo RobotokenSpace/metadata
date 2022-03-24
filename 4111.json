@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #4111",
-  "description": "**ROBOTOKEN #4111**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":4111,"name":"ROBOTOKEN #4111","description":"**ROBOTOKEN #4111**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmUd7JM8y24vRfq7E9HTkuyqbxoerrXR8acJXcfEgpQv9A","imageHash":"805ead6734336a2204342e50877bcf1c7775669a868f774ba217825937974a20","imageIpfs":"QmUd7JM8y24vRfq7E9HTkuyqbxoerrXR8acJXcfEgpQv9A","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 5"},{"trait_type":"Border","value":"Border 4"},{"trait_type":"Signature","value":"Yuri Gagarin"},{"trait_type":"Date","value":"02.12.1971"},{"trait_type":"Planet","value":"Kepler-61b"},{"trait_type":"Robot 2","value":"Predator"},{"trait_type":"Robot 1","value":"MicroRobots"},{"trait_type":"Rocket","value":"Rocket 3"}]}

@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #3391",
-  "description": "**ROBOTOKEN #3391**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":3391,"name":"ROBOTOKEN #3391","description":"**ROBOTOKEN #3391**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmVoMLth7dSrMjN8a4EDdXi84FUf5HcQmRJ4tBxqxRZsg2","imageHash":"7061be2e907fb11e579bc014e8af774582ae127f32c7ea7cfb8ae6867814a969","imageIpfs":"QmVoMLth7dSrMjN8a4EDdXi84FUf5HcQmRJ4tBxqxRZsg2","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 4"},{"trait_type":"Border","value":"Border 10"},{"trait_type":"Signature","value":"Neil Armstrong"},{"trait_type":"Date","value":"25.05.1931"},{"trait_type":"Planet","value":"HD-85512b"},{"trait_type":"Robot 2","value":"Eco"},{"trait_type":"Robot 1","value":"Eco"},{"trait_type":"Rocket","value":"Rocket 3"}]}

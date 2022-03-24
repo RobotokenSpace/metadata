@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #3456",
-  "description": "**ROBOTOKEN #3456**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":3456,"name":"ROBOTOKEN #3456","description":"**ROBOTOKEN #3456**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmW8eBxn7XUArpuuHKGC6nDApZ5WYSkxDqk8j3f39xhipW","imageHash":"5b0fddef2ca356ef848004afceb851236fd94904dcec0107dd462451d5feda59","imageIpfs":"QmW8eBxn7XUArpuuHKGC6nDApZ5WYSkxDqk8j3f39xhipW","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 4"},{"trait_type":"Border","value":"Border 3"},{"trait_type":"Signature","value":"Eugene Cernan"},{"trait_type":"Date","value":"YEAR 1676"},{"trait_type":"Planet","value":"Kepler-186f"},{"trait_type":"Robot 2","value":"Intergalactic"},{"trait_type":"Robot 1","value":"Spider"},{"trait_type":"Rocket","value":"Rocket 4"}]}

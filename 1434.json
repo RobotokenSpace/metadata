@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #1434",
-  "description": "**ROBOTOKEN #1434**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":1434,"name":"ROBOTOKEN #1434","description":"**ROBOTOKEN #1434**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmbcLS4roSxck5LW9d28Xu3ByRA8FAroaJrD9t6y1uPE2G","imageHash":"cd1a3c3ed25dd900f1a54dbe5b5fe4198fc5d3f53a7e25744618464b2eb2a7c0","imageIpfs":"QmbcLS4roSxck5LW9d28Xu3ByRA8FAroaJrD9t6y1uPE2G","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 2"},{"trait_type":"Border","value":"Border 7"},{"trait_type":"Signature","value":"Eugene Cernan"},{"trait_type":"Date","value":"19.04.1071"},{"trait_type":"Planet","value":"HD-40307g"},{"trait_type":"Robot 2","value":"MicroRobots"},{"trait_type":"Robot 1","value":"Cargo"},{"trait_type":"Rocket","value":"Rocket 3"}]}

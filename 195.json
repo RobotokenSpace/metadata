@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #195",
-  "description": "**ROBOTOKEN #195**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":195,"name":"ROBOTOKEN #195","description":"**ROBOTOKEN #195**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmWhAuMWZTDMxDbfgLnUVbTY5RWyogVvcztnVZCW1QVX9P","imageHash":"a9777515c8f3fc2f2ff8e4c41c94f66008b37395741e66f330e62dcc87262f93","imageIpfs":"QmWhAuMWZTDMxDbfgLnUVbTY5RWyogVvcztnVZCW1QVX9P","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 1"},{"trait_type":"Border","value":"Border 3"},{"trait_type":"Signature","value":"Yuri Gagarin"},{"trait_type":"Date","value":"18.07.2011"},{"trait_type":"Planet","value":"Gliese-163c"},{"trait_type":"Robot 2","value":"Bug"},{"trait_type":"Robot 1","value":"PostApocalypse"},{"trait_type":"Rocket","value":"Rocket 3"}]}

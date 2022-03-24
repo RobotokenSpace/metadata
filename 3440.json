@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #3440",
-  "description": "**ROBOTOKEN #3440**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":3440,"name":"ROBOTOKEN #3440","description":"**ROBOTOKEN #3440**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmeUAbyQheJjxqaJAb1JyGkWG4CEysaa7sZnTmzpM4YPqG","imageHash":"61b258d25f81063bc2b2e2a665c3eed324dd87ada2a470adf020ce7ff520d90d","imageIpfs":"QmeUAbyQheJjxqaJAb1JyGkWG4CEysaa7sZnTmzpM4YPqG","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 4"},{"trait_type":"Border","value":"Border 3"},{"trait_type":"Signature","value":"Alexey Leonov"},{"trait_type":"Date","value":"19.04.1071"},{"trait_type":"Planet","value":"Gliese-581g"},{"trait_type":"Robot 2","value":"Combat"},{"trait_type":"Robot 1","value":"Predator"},{"trait_type":"Rocket","value":"Rocket 1"}]}

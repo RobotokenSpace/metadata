@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #1037",
-  "description": "**ROBOTOKEN #1037**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":1037,"name":"ROBOTOKEN #1037","description":"**ROBOTOKEN #1037**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmPPt1aTauq1CF7KEYtFuJW5xcHUQwhhBQiRpWhv94Arek","imageHash":"daa0409ac02fde6c343fa348a84d9c9c519ce9349edb25731d94718661017471","imageIpfs":"QmPPt1aTauq1CF7KEYtFuJW5xcHUQwhhBQiRpWhv94Arek","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 2"},{"trait_type":"Border","value":"Border 10"},{"trait_type":"Signature","value":"Eugene Cernan"},{"trait_type":"Date","value":"18.07.2011"},{"trait_type":"Planet","value":"Venus"},{"trait_type":"Robot 2","value":"PostApocalypse"},{"trait_type":"Robot 1","value":"Intergalactic"},{"trait_type":"Rocket","value":"Rocket 5"}]}

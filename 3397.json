@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #3397",
-  "description": "**ROBOTOKEN #3397**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":3397,"name":"ROBOTOKEN #3397","description":"**ROBOTOKEN #3397**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmSrWGVyAu2WFpRUBXD4YVsPYGfPSydXGfAUZurj8KnCE6","imageHash":"c38998b3e983a04d0fe2c2d098165ee799540b6241df5c034124a3ed426d815f","imageIpfs":"QmSrWGVyAu2WFpRUBXD4YVsPYGfPSydXGfAUZurj8KnCE6","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 4"},{"trait_type":"Border","value":"Border 10"},{"trait_type":"Signature","value":"Elon Reeve Musk"},{"trait_type":"Date","value":"02.12.1971"},{"trait_type":"Planet","value":"Gliese-163c"},{"trait_type":"Robot 2","value":"Doctor"},{"trait_type":"Robot 1","value":"Transformer"},{"trait_type":"Rocket","value":"Rocket 2"}]}

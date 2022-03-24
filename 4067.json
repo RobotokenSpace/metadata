@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #4067",
-  "description": "**ROBOTOKEN #4067**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":4067,"name":"ROBOTOKEN #4067","description":"**ROBOTOKEN #4067**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmZWQSkujrD1RXwyGrfWrhpfvNfUknXhyZChsi5WF2jp7c","imageHash":"f17bfb428361f2f1abe2f174f699e13c460a4d1054229244f31d4fd9f657e340","imageIpfs":"QmZWQSkujrD1RXwyGrfWrhpfvNfUknXhyZChsi5WF2jp7c","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 5"},{"trait_type":"Border","value":"Border 3"},{"trait_type":"Signature","value":"Alexey Leonov"},{"trait_type":"Date","value":"18.07.2011"},{"trait_type":"Planet","value":"Jupiter"},{"trait_type":"Robot 2","value":"Eco"},{"trait_type":"Robot 1","value":"Lunokhod"},{"trait_type":"Rocket","value":"Rocket 1"}]}

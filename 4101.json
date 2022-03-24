@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #4101",
-  "description": "**ROBOTOKEN #4101**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":4101,"name":"ROBOTOKEN #4101","description":"**ROBOTOKEN #4101**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmW74WgAuQVyUr3yRXsfcr8JDaHtdfDtjA1gQR4QSzeFky","imageHash":"ccdc24b70b15c5250baed085d3f0d2e37e4dfc56eff2f4168339342a55aa72a4","imageIpfs":"QmW74WgAuQVyUr3yRXsfcr8JDaHtdfDtjA1gQR4QSzeFky","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 5"},{"trait_type":"Border","value":"Border 7"},{"trait_type":"Signature","value":"Neil Armstrong"},{"trait_type":"Date","value":"YEAR 1676"},{"trait_type":"Planet","value":"Kepler-61b"},{"trait_type":"Robot 2","value":"Transformer"},{"trait_type":"Robot 1","value":"Electric"},{"trait_type":"Rocket","value":"Rocket 4"}]}

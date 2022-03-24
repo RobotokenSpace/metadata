@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #4628",
-  "description": "**ROBOTOKEN #4628**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":4628,"name":"ROBOTOKEN #4628","description":"**ROBOTOKEN #4628**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmU24HnP7KgKo4qT4HVWsrjz2ufR4qcDVQDi2Kmzitw3Mj","imageHash":"70b03092dd9d6141174d28ab5a1f3515165e68699ed60135c1ec79d904d96e93","imageIpfs":"QmU24HnP7KgKo4qT4HVWsrjz2ufR4qcDVQDi2Kmzitw3Mj","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 5"},{"trait_type":"Border","value":"Border 1"},{"trait_type":"Signature","value":"Elon Reeve Musk"},{"trait_type":"Date","value":"09-13.04.1986"},{"trait_type":"Planet","value":"Mars"},{"trait_type":"Robot 2","value":"PostApocalypse"},{"trait_type":"Robot 1","value":"Electro"},{"trait_type":"Rocket","value":"Rocket 2"}]}

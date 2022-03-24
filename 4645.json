@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #4645",
-  "description": "**ROBOTOKEN #4645**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":4645,"name":"ROBOTOKEN #4645","description":"**ROBOTOKEN #4645**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmZejxzvjBX31vG6gw22MgrjoHRLZwTLxdX5m5y4SoJ53F","imageHash":"664b536f87e71ec301817a8d117d0bfd98da57d0f8991d2d8dd55525e240a0b5","imageIpfs":"QmZejxzvjBX31vG6gw22MgrjoHRLZwTLxdX5m5y4SoJ53F","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 5"},{"trait_type":"Border","value":"Border 5"},{"trait_type":"Signature","value":"Alexey Leonov"},{"trait_type":"Date","value":"25.05.1931"},{"trait_type":"Planet","value":"Makemake"},{"trait_type":"Robot 2","value":"Underwater"},{"trait_type":"Robot 1","value":"Trash"},{"trait_type":"Rocket","value":"Rocket 4"}]}

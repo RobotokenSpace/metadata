@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #345",
-  "description": "**ROBOTOKEN #345**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":345,"name":"ROBOTOKEN #345","description":"**ROBOTOKEN #345**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmcY6dahGk7LJqGyhbP61yMupZ1P3VF1kxmzcxLbXjrmtM","imageHash":"f402ab7f094c8a2253a53f7b75c2b3686f7de38783d674e2b27239a08a13bd01","imageIpfs":"QmcY6dahGk7LJqGyhbP61yMupZ1P3VF1kxmzcxLbXjrmtM","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 1"},{"trait_type":"Border","value":"Border 4"},{"trait_type":"Signature","value":"Belka And Strelka"},{"trait_type":"Date","value":"13.03.1986"},{"trait_type":"Planet","value":"Wolf-1061c"},{"trait_type":"Robot 2","value":"Electro"},{"trait_type":"Robot 1","value":"Predator"},{"trait_type":"Rocket","value":"Rocket 5"}]}

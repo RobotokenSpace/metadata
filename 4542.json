@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #4542",
-  "description": "**ROBOTOKEN #4542**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":4542,"name":"ROBOTOKEN #4542","description":"**ROBOTOKEN #4542**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmU3wWUUjLmKfuzEnPLa4GSBJwDY8MSG9eVZaEF9nRamb8","imageHash":"0235409a75ed6eedbf8feb3635d340035fd6f9a4ceef6a95da98acff59a4ec63","imageIpfs":"QmU3wWUUjLmKfuzEnPLa4GSBJwDY8MSG9eVZaEF9nRamb8","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 5"},{"trait_type":"Border","value":"Border 6"},{"trait_type":"Signature","value":"Eugene Cernan"},{"trait_type":"Date","value":"12.04.1961"},{"trait_type":"Planet","value":"Uranium"},{"trait_type":"Robot 2","value":"Lunokhod"},{"trait_type":"Robot 1","value":"AI"},{"trait_type":"Rocket","value":"Rocket 1"}]}

@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #2739",
-  "description": "**ROBOTOKEN #2739**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":2739,"name":"ROBOTOKEN #2739","description":"**ROBOTOKEN #2739**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmU2mi5Bdws8Xf1hZNnh7tK4GfiFzvHvQ4QnbmqvGNyq7u","imageHash":"975e8b4804d41140e9f5ef69ca3e0a6366c1cb791a5cacf2d014f5041f83938a","imageIpfs":"QmU2mi5Bdws8Xf1hZNnh7tK4GfiFzvHvQ4QnbmqvGNyq7u","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 3"},{"trait_type":"Border","value":"Border 2"},{"trait_type":"Signature","value":"Alexey Leonov"},{"trait_type":"Date","value":"02.12.1971"},{"trait_type":"Planet","value":"Kepler-186f"},{"trait_type":"Robot 2","value":"Retro"},{"trait_type":"Robot 1","value":"PostApocalypse"},{"trait_type":"Rocket","value":"Rocket 3"}]}

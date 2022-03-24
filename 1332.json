@@ -1,7 +1,1 @@
-{
-  "name": "ROBOTOKEN #1332",
-  "description": "**ROBOTOKEN #1332**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.",
-  "image": "ipfs://QmP1MBsticz26RpGqqeVbvmkeHa355QMTLbH6pf7Kzf6zV",
-  "external_url": "https://robotoken.space/",
-  "attributes": []
-}
+{"tokenId":1332,"name":"ROBOTOKEN #1332","description":"**ROBOTOKEN #1332**\n\n**ROBOTOKEN** is a multifunctional NFT-banknote giving access to the **\"Musk's Children\"** community.","image":"ipfs://QmRy2vQrerGdbgiACtnfFM7JnftDDJCUzTdh7D9o7BJKF6","imageHash":"4c1604c927305d1a58524c807c7929c552e29c428c7d83693b585ebf7baeb6a3","imageIpfs":"QmRy2vQrerGdbgiACtnfFM7JnftDDJCUzTdh7D9o7BJKF6","external_url":"https://robotoken.space/","attributes":[{"trait_type":"Color","value":"Color 2"},{"trait_type":"Border","value":"Border 3"},{"trait_type":"Signature","value":"Eugene Cernan"},{"trait_type":"Date","value":"YEAR 1676"},{"trait_type":"Planet","value":"Kepler-62f"},{"trait_type":"Robot 2","value":"Predator"},{"trait_type":"Robot 1","value":"Underwater"},{"trait_type":"Rocket","value":"Rocket 5"}]}
